@@ -1,1 +1,1 @@
-Sample code for [NODE.JS MODULE PATTERNS](http://darrenderidder.github.io/talks/ModulePatterns/) talk
+Sample code for [Node.JS Module Patterns with Simple Examples](http://darrenderidder.github.io/talks/ModulePatterns/) talk
